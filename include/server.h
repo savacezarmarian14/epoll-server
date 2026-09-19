@@ -7,4 +7,5 @@
 #include <unistd.h>
 
 #define PORT 12345
+#define BACKLOG 10
 #define MAX_CLIENTS 1000
